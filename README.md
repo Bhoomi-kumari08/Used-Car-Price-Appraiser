@@ -52,8 +52,8 @@ The Used Car Price Appraiser helps estimate the resale price of a car using a tr
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/bhoomi-kumari08/used-car-price-appraiser.git
-cd used-car-price-appraiser
+git clone https://github.com/bhoomi-kumari08/Used-Car-Price-Appraiser.git
+cd Used-Car-Price-Appraiser
 ```
 
 **2. Install dependencies**
